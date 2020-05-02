@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: asiffarhankhan.github.io
+Token: 360998338a57c9e61911b07b8d7c6d4378f0cac47340d0dbce29ccdcb7099e1a
